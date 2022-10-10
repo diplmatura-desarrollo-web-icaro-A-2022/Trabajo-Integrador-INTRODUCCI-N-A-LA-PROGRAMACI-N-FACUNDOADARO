@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "El Alquimista",
+    "author": "Paulo Coelho",
+    "genre": "Ficción",
+    "year": "1988",
+    "cost": "$1643",
+    "price": "$3100"
+  },
+  {
+    "id": 2,
+    "title": "Crepúsculo",
+    "author": "Stephenie Meyer",
+    "genre": "Fantasía",
+    "year": "2005",
+    "cost": "$3200",
+    "price": "$6000"
+  },
+  {
+    "id": 3,
+    "title": "El Señor de los Anillos",
+      "author": "J.R.R. Tolkien",
+      "genre": "Novela",
+      "year": "1954",
+      "cost": "$2800",
+      "price": "$5000"
+  },
+  {
+    "id": 4,
+    "title": "El Código da Vinci",
+      "author": "Dan Brown",
+      "genre": "Misterio",
+      "year": "2003",
+      "cost": "$1800",
+      "price": "$2800"
+  },
+  {
+    "id": 7,
+    "title": "facu",
+    "author": "adaro",
+    "genre": "terror",
+    "year": "1999",
+    "cost": "$600",
+    "price": "$820"
+  }
+]
+
